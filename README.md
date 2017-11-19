@@ -8,7 +8,11 @@ added something and made some changes and merge
 ## Section 1.1
 - - - - -
 Test
-(www.google.com)
+
+[Link](www.google.com)
+
+$$ \frac{1}{3} $$
+
 
 
 
