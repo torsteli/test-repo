@@ -2,5 +2,5 @@ test-repo
 =========
 
 This is a test-repo of torsteli
-added something
+added something and made some changes
 
